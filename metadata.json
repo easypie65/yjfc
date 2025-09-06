@@ -1,0 +1,5 @@
+{
+  "name": "Soccer Field Position Visualizer",
+  "description": "An interactive application to visualize soccer player positions relative to the goal. Users can drag players on a coordinate plane and see the lines connecting them to the goalposts.",
+  "requestFramePermissions": []
+}
