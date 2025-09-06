@@ -1,5 +1,5 @@
 {
-  "name": "soccer-field-position-visualizer",
+  "name": "Soccer Field Position Visualizer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,8 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "typescript": "^5.8.2",
+    "vite": "^6.3.5",
+    "@vitejs/plugin-react": "^4.3.0"
   }
 }
